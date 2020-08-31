@@ -1,0 +1,23 @@
+.navbar {
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+}
+
+.navbar .nav-item .nav-link {
+    color: aliceblue;
+}
+
+.main-header {
+    background: url(../Imagenes/robot.hand.jpg);
+    background-size: cover;
+    min-height: 800px;
+}
+
+.background-overlay {
+    background: rgba(153, 128, 250,.5);
+}
+
+.form-control {
+    border-radius: 0;
+}
+
